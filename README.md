@@ -36,7 +36,7 @@ Built at **HackMIT 2025**.
 ### Setup
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/artmentor.git
+git clone https://github.com/<your-username>/HackMIT2025.git
 cd artmentor
 
 # Install frontend
