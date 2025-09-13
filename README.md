@@ -1,6 +1,6 @@
-# ArtMentor 🎨🤖
+# Easel 🎨🤖
 
-ArtMentor is an AI-powered art education tool that gives **constructive critique** and **practice exercises** for visual artworks.  
+Easel is an AI-powered art education tool that gives **constructive critique** and **practice exercises** for visual artworks.  
 Upload your art → get structured feedback on composition, color, and contrast → receive practice suggestions → explore reference artworks.  
 
 Built at **HackMIT 2025**.
