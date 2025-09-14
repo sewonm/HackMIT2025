@@ -5,6 +5,8 @@ Upload your art → get structured feedback on composition, color, and contrast 
 
 Built at **HackMIT 2025**.
 
+Slides: https://www.canva.com/design/DAGy6Ocmac4/1mlzEMkIBdjnabIxhZ8WiA/edit?utm_content=DAGy6Ocmac4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ---
 
 ## ✨ Features
